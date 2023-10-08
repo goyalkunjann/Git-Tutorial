@@ -1,0 +1,7 @@
+Hello Everyone!
+
+I'm Vinay Bhamre from AlgoUniversity Leap 2023 Batch 2.
+
+I'm frontend developer with experience in React and it's ecosystem.
+
+Thank you! :)
